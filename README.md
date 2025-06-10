@@ -1,0 +1,2 @@
+# first-proj
+learning git
